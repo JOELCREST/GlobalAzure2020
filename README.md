@@ -23,6 +23,6 @@ Les documents permettant de suivre ce lab sont rédigés **en langue anglaise**.
 
 1. **Obtenir une licence d'essai Power Apps :** Aller à http://make.powerapps.com et s'authentifier avec votre compte scolaire ou professionnel.
 
-2. **Licence d'essai Power Apps Plan 2 :** L'utilisation du Common Data Service requiert une licence Power Apps Plan 2. Aller à https://powerapps.microsoft.com/pricing pour démarrer une période d'essai de 20j d'une licence Plan 2.
+2. **Licence d'essai Power Apps Plan 2 :** L'utilisation du Common Data Service requiert une licence Power Apps Plan 2. Aller à https://powerapps.microsoft.com/pricing pour démarrer une période d'essai de 30j d'une licence Plan 2.
 
 
