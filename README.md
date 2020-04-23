@@ -25,4 +25,7 @@ Les documents permettant de suivre ce lab sont rédigés **en langue anglaise**.
 
 2. **Licence d'essai Power Apps Plan 2 :** L'utilisation du Common Data Service requiert une licence Power Apps Plan 2. Aller à https://powerapps.microsoft.com/pricing pour démarrer une période d'essai de 30j d'une licence Plan 2.
 
+3. Si vous n’arrivez pas à obtenir une licence gratuite, créez votre propre **tenant de test Office 365** : http://aka.ms/Office365E5Trial 
+
+
 
